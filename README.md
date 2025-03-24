@@ -1,5 +1,5 @@
-# E-commerce-sale-dashboard
-A task on e-commerce, showing my findings after analyzing the dataset
+# E-commerce sales dashboard
+A task to analyze a dataset, clean and show findings by creating an e-commerce dashboard in Excel
 ## Project Overview
 This Project aims to provide actionable insights 
 That will help improve product sales, customer satisfaction rates,
