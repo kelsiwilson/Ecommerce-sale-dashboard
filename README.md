@@ -36,4 +36,12 @@ Step 8: Two bar chat and a doughnut chart we included in the report design
 3. High-income customers have an interest in discounts
  ## Snapshot of Dashboard
 ![Screenshot 2025-03-24 172314](https://github.com/user-attachments/assets/0373de65-491b-4e86-8047-623e52425336)
+## Insights
+1. The age group that spent more on products is the young group with $136,058.40
+2. Customers don't often return purchased items and Customer Satisfaction
+   is highly affected by brand loyalty.
+3. Customers are very sensitive to discounts and Customers  with high income are interested in discount
+4. Customers who purchase a particular product don't particularly use a particular shipping mode
+5. Social media Influence highly affects product purchase and product rating
+6. The product category with the highest return rate in Jewelry & accessories
 
