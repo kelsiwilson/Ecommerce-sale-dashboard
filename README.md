@@ -28,3 +28,11 @@ Social media influence affects product purchases and rating
 Step 6: Create a Dashboard in Excel using a bar chart, line chart, pie chart, Column chart etc..
 ## Screenshot of KPIs
 ![Screenshot 2025-03-24 165923](https://github.com/user-attachments/assets/83b26287-8d11-482f-9af0-b9069b9641d6)
+Step 7: We use a card to visually display the KPIs.
+Step 8: Two bar chat and a doughnut chart we included in the report design
+1. The first chart represents the Age group that spends more between old and young.
+   Young spend more than old
+2. Customer satisfaction by brand loyalty 
+3. High-income customers have an interest in discounts
+ ## Snapshot of Dashboard
+ ![Screenshot 2025-03-24 172040](https://github.com/user-attachments/assets/2f836fe3-8bdb-4a0b-bdb3-9d12494e8733)
