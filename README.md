@@ -44,4 +44,12 @@ Step 8: Two bar chat and a doughnut chart we included in the report design
 4. Customers who purchase a particular product don't particularly use a particular shipping mode
 5. Social media Influence highly affects product purchase and product rating
 6. The product category with the highest return rate in Jewelry & accessories
+## Recommendation Report
+1. Tailor marketing  strategies toward young customers with trendy products like S/w & Apps, outdoors & gardening,
+while older customers with toys & games and electronics.
+2. Improve customer satisfaction through better product description and post-purchase support to reduce returns
+3. Do discounts campaign and focus more on middle-income shoppers and introduce exclusive offers to high-income shoppers
+4. Offer free shipping for high-valued and large quantities of products purchased
+5. Invest more in social media campaigns for visually appealing products to target more customers for better engagement
+6. Include detailed clear quality descriptions for all products to minimize return rate.
 
