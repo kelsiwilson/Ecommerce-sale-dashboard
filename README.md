@@ -35,4 +35,5 @@ Step 8: Two bar chat and a doughnut chart we included in the report design
 2. Customer satisfaction by brand loyalty 
 3. High-income customers have an interest in discounts
  ## Snapshot of Dashboard
- ![Screenshot 2025-03-24 172040](https://github.com/user-attachments/assets/2f836fe3-8bdb-4a0b-bdb3-9d12494e8733)
+![Screenshot 2025-03-24 172314](https://github.com/user-attachments/assets/0373de65-491b-4e86-8047-623e52425336)
+
