@@ -34,7 +34,8 @@ Step 5: Create a pivot Table for Customer Satisfaction & Loyalty, Customer Produ
 Social media influence affects product purchases and ratings
 Step 6: Create a Dashboard in Excel using a bar chart, line chart, pie chart, Column chart etc..
 ## Screenshot of KPIs
-![Screenshot 2025-03-24 165923](https://github.com/user-attachments/assets/83b26287-8d11-482f-9af0-b9069b9641d6)
+![Screenshot 2025-03-25 170813](https://github.com/user-attachments/assets/34048c81-6c02-4e5b-acb5-f08ebc7e6578)
+
 
 Step 7: We use a card to visually display the KPIs.
 Step 8: Two bar chat and a doughnut chart we included in the report design
@@ -43,7 +44,8 @@ Step 8: Two bar chat and a doughnut chart we included in the report design
 2. Customer satisfaction by brand loyalty. 
 3. High-income customers have an interest in discounts.
  ## Snapshot of Dashboard
- ![Screenshot 2025-03-25 152221](https://github.com/user-attachments/assets/0d0390eb-5aad-48e3-9b38-8eeaefef44d3)
+![Screenshot 2025-03-25 170625](https://github.com/user-attachments/assets/9059de69-9cf1-4d52-91fe-f0e0bebb0f3a)
+
 ## Insights
 1. The age group that spent more on products is the young group, and for the income level, the high-income group
    earners spend more than middle-income earners.
