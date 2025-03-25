@@ -35,9 +35,10 @@ Step 8: Two bar chat and a doughnut chart we included in the report design
 2. Customer satisfaction by brand loyalty 
 3. High-income customers have an interest in discounts
  ## Snapshot of Dashboard
-![Screenshot 2025-03-24 172314](https://github.com/user-attachments/assets/0373de65-491b-4e86-8047-623e52425336)
+ ![Screenshot 2025-03-25 152221](https://github.com/user-attachments/assets/0d0390eb-5aad-48e3-9b38-8eeaefef44d3)
 ## Insights
-1. The age group that spent more on products is the young group with $136,058.40
+1. The age group that spent more on products is the young group, for the income level, the high income
+   earners spend more than middle-income earners.
 2. Customers don't often return purchased items and Customer Satisfaction
    is highly affected by brand loyalty.
 3. Customers are very sensitive to discounts and Customers  with high income are interested in discount
@@ -47,9 +48,9 @@ Step 8: Two bar chat and a doughnut chart we included in the report design
 ## Recommendation Report
 1. Tailor marketing  strategies toward young customers with trendy products like S/w & Apps, outdoors & gardening,
 while older customers with toys & games and electronics.
-2. Improve customer satisfaction through better product description and post-purchase support to reduce returns
-3. Do discounts campaign and focus more on middle-income shoppers and introduce exclusive offers to high-income shoppers
-4. Offer free shipping for high-valued and large quantities of products purchased
-5. Invest more in social media campaigns for visually appealing products to target more customers for better engagement
-6. Include detailed clear quality descriptions for all products to minimize return rate.
+2. Improve customer satisfaction through better product descriptions and post-purchase support to reduce product returns.
+3. Do a discount campaign and focus more on middle-income shoppers, and introduce exclusive offers to high-income shoppers.
+4. Offer free shipping for high-value and also large quantities of products purchased by customers.
+5. Invest more in social media campaigns for visually appealing products to target more customers for better engagement.
+6. Include detailed, clear quality descriptions for all products to minimize return rate.
 
