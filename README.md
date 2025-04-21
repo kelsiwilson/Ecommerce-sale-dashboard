@@ -15,7 +15,7 @@ Customer satisfaction & Loyalty, Customer Product purchase by shipping preferenc
 Social media influence affects product purchases and ratings
 ##Type of Analysis used
 Exploratory Data Analysis: It involved exploring data to discover trends and questions
-such as group category that spends more, customer satisfaction affects brand loyalty,
+such as group category spends more, customer satisfaction affects brand loyalty,
 high-income customers are interested in discounts.
 ## Data cleaning & preparation
 Step 1: Download the file from the link and Load and clean the data location in Python.
@@ -46,14 +46,16 @@ Step 7: We use a card to visually display the KPIs.
 
 
 ## Insights
-1. The age group that spent more on products is the young group, and for the income level, the high-income group
-   earners spend more than middle-income earners.
-2. Customers don't often return purchased items, and Customer Satisfaction
+1. The age group that spent more on products is the young group, with a difference of $2,780.
+2.  The high-income group earners spend more than the middle-income earners.
+3. Customers don't often return purchased items, and Customer Satisfaction,
    It is highly affected by brand loyalty.
-3. Customers are very sensitive to discounts, and Customers  with high income are interested in discounts
-4. Customers who purchase a particular product don't mainly use a particular shipping mode
-5. Social media Influence highly affects product purchase and product rating
-6. The product category with the highest return rate in Jewelry & accessories
+4. Customers are very sensitive to discounts, and Customers  with high income are interested in discounts
+5. Customers who purchase a particular product, like Home Appliances, Animal feed, use Standard Shipping,
+   Electronics and Sport & Outdoor have no preference, Gardening & Outdoor and Office supply prefer express shipping.
+6. Social media Influence is highly affected by product purchase and product rating
+7. The product category with the highest return rate is  Jewelry & accessories and Electronics
+   
 ## Recommendation Report
 1. Tailor marketing  strategies toward young customers with trendy products like S/w & Apps, outdoors & gardening,
 while older customers with toys & games and electronics.
